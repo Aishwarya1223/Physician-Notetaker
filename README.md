@@ -101,10 +101,14 @@ python physician_notetaker.py
 
 ---
 
+
 ## Author
+
 **Aishwarya R**  
-MCA in Artificial Intelligence  
-Specialized in NLP, LangChain and Generative AI
+*MCA in Artificial Intelligence*  
+*Focus Areas:* Natural Language Processing (NLP), LangChain, and Generative AI  
+
+
 ---
 
 ## License
