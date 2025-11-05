@@ -26,7 +26,7 @@ The system processes the transcript through several stages:
 
 ## Example Output
 The output includes extracted entities, summarized reports, keywords, patient sentiment, and structured SOAP notes in JSON format.
-
+```json
 {
   "Patient_Name": "Janet Jones",
   "Entities": {
