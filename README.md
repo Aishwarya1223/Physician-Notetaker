@@ -56,7 +56,7 @@ The output includes extracted entities, summarized reports, keywords, patient se
     "Plan": "If anything changes, you can always come back for a follow-up."
   }
 }
-
+```
 
 ---
 
